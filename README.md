@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **html,css,bootstrap,tailwind**
 
-- 📫 How to reach me **mihtshamliaquat@gmail.com**
+- 📫 How to reach me **mihteshamliaquat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
