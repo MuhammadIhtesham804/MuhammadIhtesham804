@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ihtesham</h1>
-<h3 align="center">🚀 Frontend Developer | Pakistan</h3>
+<h3 align="center">⚡ Frontend Developer | UI Enthusiast | Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadihtesham804&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
@@ -14,10 +14,14 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Netflix Clone**
-- 🌱 Learning **JavaScript & React.js**
-- 👯 Open to collaborate on **Frontend / Web Projects**
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS**
+🚀 Passionate **Frontend Developer** focused on building **modern, responsive & animated web experiences**.
+
+- 🔭 Currently working on **Tesla Website Clone**
+- 🌱 Learning **Advanced JavaScript & React.js**
+- 👯 Open to collaborate on **Frontend / UI-Focused Web Projects**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, Bootstrap, JavaScript**
+- ✨ Interested in **UI Animations, 3D Sliders & Interactive Designs**
+- 🧠 Exploring **AI-Assisted Coding for Developers**
 - 📝 I write about **Sports & Video Games**
 - 📫 Reach me at **mihteshamliaquat@gmail.com**
 
@@ -43,9 +47,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
 </p>
+
+---
+
+### 🤖 Additional Skills
+- ✅ **Git & GitHub (Version Control)**
+- 🤖 **AI-Assisted Coding for Developers**
+- 🎨 UI/UX-Focused Development
+- ⚡ Responsive & Performance-Optimized Design
 
 ---
 
@@ -61,5 +74,4 @@
 ---
 
 ### ⚡ Fun Fact
-💡 *I love building UI animations and 3D sliders that make websites feel alive!*
-
+💡 *I love building smooth UI animations, 3D sliders, and interactive components
